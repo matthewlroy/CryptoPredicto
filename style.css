@@ -1,3 +1,20 @@
+body {
+  margin-top: 20px;
+  background-color: #eee;
+  background-image: url('http://c1.staticflickr.com/5/4428/36401449295_9a376a5cef_h.jpg');
+}
+
+.main-container {
+  max-width: 480px; 
+  padding: 15px;
+  background: rgba(1, 1, 1, 0.07);
+}
+
+.title-adjust-right {
+  margin-right: 265px;
+  margin-bottom: 20px;
+}
+
 /* Source: https://bootsnipp.com/snippets/featured/circle-button */
 .btn-circle {
   width: 30px;
